@@ -9,12 +9,6 @@
 
 Includes recipes & best practices of Smartface components.
 
-## Categories
-
-* [GridView](https://github.com/smartface/recipes/tree/master/GridView)
-* [SliderDrawer](https://github.com/smartface/recipes/tree/master/SliderDrawer)
-* [SwipeView](https://github.com/smartface/recipes/tree/master/SwipeView)
-* [ListView](https://github.com/smartface/recipes/tree/master/ListView)
 
 Many thanks to everyone on the [contributor
 list](https://github.com/smartface/recipes/graphs/contributors) :)
