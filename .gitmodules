@@ -1,0 +1,12 @@
+[submodule "GridView"]
+	path = GridView
+	url = git@github.com:smartface/GridViewRecipe.git
+[submodule "SwipeView"]
+	path = SwipeView
+	url = git@github.com:smartface/SwipeViewRecipe.git
+[submodule "SliderDrawer"]
+	path = SliderDrawer
+	url = git@github.com:smartface/SliderDrawerRecipe.git
+[submodule "ListView"]
+	path = ListView
+	url = git@github.com:smartface/ListViewRecipe.git
